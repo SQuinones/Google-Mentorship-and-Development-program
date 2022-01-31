@@ -19,7 +19,6 @@ Air Hockey Game:
 Air Hockey Game project is written in Python. It’s a two-player game, playing against each other. After starting the game, 
 the player has to move the paddle from left to right, up and down to block the ball from entering the scoring area
 
-
 ![Hockey-game](https://user-images.githubusercontent.com/78192383/151884932-d23a8b08-33e6-4183-909d-7309777a413b.gif)
 
 Empire State:
